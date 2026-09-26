@@ -9,7 +9,7 @@ const topContents = [
     `<p>Hello, my name is Mikaela but you can call me Mika. Im 19yo, Bisexual and <strong>Demigirl</strong>. I go by any pronouns, Im always happy if you use both.</p>`,
     
     `<p>
-  <p><strong>𝐼 𝐿OVE ℬUNGO 𝒮TRAY 𝒟OGS</strong> so much, it’s genuinely one of my favorite things in the world.</p>
+  <p><strong>  ⑅ ̣̣ ‿ ㅤㅤ</p>
 </p>
     <p>
 
@@ -51,7 +51,7 @@ const bottomContents = [
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 <p>Owaldo, goge, domi, fufi, lini, misa, pollo, ash, cerise y la familia peluche</p>`,
     
-    `<p><img src="https://storage.to/yuCY1U9Z3" alt="Image 1" style="width: 100%; height: auto; max-width: 500px;"></p>`
+    `<p>  ⑅ ̣̣ ‿ ㅤㅤ</p>`
 ];
 
 // ♡
