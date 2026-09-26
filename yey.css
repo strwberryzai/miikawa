@@ -61,15 +61,15 @@ body {
 
 @media (max-width: 768px) {
     html, body {
-        background-image: url("https://files.catbox.moe/d0o3w3.png") !important;
-        background-size: cover !important;
-        background-position: center !important;
-        background-repeat: no-repeat !important;
-        background-attachment: scroll !important;
+        background: url("https://files.catbox.moe/d0o3w3.png") center / cover no-repeat scroll !important;
     }
 
     body::before {
-        background-image: url("https://files.catbox.moe/d0o3w3.png") !important;
+        content: "" !important;
+        position: fixed !important;
+        inset: 0 !important;
+        z-index: -1 !important;
+        background: url("https://files.catbox.moe/d0o3w3.png") center / cover no-repeat scroll !important;
     }
 }
 
